@@ -1,0 +1,32 @@
+# Sbagen: http://uazu.net/sbagen/
+#
+# Purpose of this file: Focus, concentration
+# Headphones free
+#
+# Containing Frequency, from http://www.lunarsight.com/freq.htm:
+# Brain entrainment beat: 20.0 - fatigue, energize. Causes distress during labor.[EQ]; Human Hearing Threshold [SS]; Schumann Resonance (3rd frequency of 7) [TS+HSW]; Imposing subconscious commands on another (thought center) [RA]; Stimulation of pineal gland [ESR][JB] ; Helps with tinnitis (a condition that causes ear-ringing) [JB]; Adrenal Stimulant, (used on) sinus disorders/sinus infection/head cold/headache [RS]; Commonly used "cure-all" Rife Frequency [CR]
+# Hearable Tone: 250.0 Elevate and revitalize
+#
+# Disclaimer: 
+# Experiment at your own risk. Please do not use without proper, medical supervision/advice!
+# The following People should not listen to Brainwave entrainment: Children, pregnant Woman, people with cardiac pacemaker or which prone to seizure ( i.e. Epilepsy) 
+# Hear the presets for Headphones at very low loudness! Headphone free presets can be heard louder.
+# Stick to a frequency/preset for a week and listen a hour a day to it, the Brain needs training to get effects. 
+# If you get uncomfortable make some break. 
+#
+# Uncomment #-Wo file.wav to write output to file (if you convert to mp3, use constant 320kbit and make sure its stereo, not joint-stereo)
+# to disable the river background sound, change below: mix/* to mix/0 and to make it louder: mix/10 
+# to disable the pink noise, change below: pink/* to pink/0 and to make it louder: pink/10 
+
+-SE 
+-m river1.ogg
+
+#-Wo 20_on_250_octaves_headphone_free.wav
+
+off: -
+ts00:	125+20/5	125-20/5	250+20/10	250-20/10	500+20/5	500-20/5	pink/2	mix/4
+
+# Duration 60 minutes
+00:00:00 ts00
+01:00:00 off
+
