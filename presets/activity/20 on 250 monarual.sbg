@@ -1,17 +1,16 @@
-#		Sbagen: http://uazu.net/sbagen/
+# Sbagen: http://uazu.net/sbagen/
 #
-#		Purpose of this file: Focus, concentration
-#		Monaural, headphone free
+# Purpose of this file: Focus, concentration
+# Monaural, headphone free
 #
-#		Experiment at your own risk. Please do not use without proper, medical supervision/advice!
-#		The following People should not listen to Brainwave entrainment: Children, pregnant Woman, people with cardiac pacemaker or which prone to seizure ( i.e. Epilepsy) 
-#		Containing Frequency, from http://www.lunarsight.com/freq.htm:
-#		Brain entrainment beat: 20.0 - fatigue, energize. Causes distress during labor.[EQ]; Human Hearing Threshold [SS]; Schumann Resonance (3rd frequency of 7) [TS+HSW]; Imposing subconscious commands on another (thought center) [RA]; Stimulation of pineal gland [ESR][JB] ; Helps with tinnitis (a condition that causes ear-ringing) [JB]; Adrenal Stimulant, (used on) sinus disorders/sinus infection/head cold/headache [RS]; Commonly used "cure-all" Rife Frequency [CR]
-#		Hearable Tone: 250.0 Elevate and revitalize
-#
-#		Uncomment #-Wo file.wav to write output to file
-#		to disable the river background sound, change below: mix/* to mix/0 and to make it louder: mix/10 
-#		to disable the pink noise, change below: pink/* to pink/0 and to make it louder: pink/10 
+# Experiment at your own risk. Please do not use without proper, medical supervision/advice!
+# The following People should not listen to Brainwave entrainment: Children, pregnant Woman, people with cardiac pacemaker or which prone to seizure ( i.e. Epilepsy) 
+# Containing Frequency, from http://www.lunarsight.com/freq.htm:
+# Brain entrainment beat: 20.0 - fatigue, energize. Causes distress during labor.[EQ]; Human Hearing Threshold [SS]; Schumann Resonance (3rd frequency of 7) [TS+HSW]; Imposing subconscious commands on another (thought center) [RA]; Stimulation of pineal gland [ESR][JB] ; Helps with tinnitis (a condition that causes ear-ringing) [JB]; Adrenal Stimulant, (used on) sinus disorders/sinus infection/head cold/headache [RS]; Commonly used "cure-all" Rife Frequency [CR]
+# Hearable Tone: 250.0 Elevate and revitalize
+# Uncomment #-Wo file.wav to write output to file
+# to disable the river background sound, change below: mix/* to mix/0 and to make it louder: mix/10 
+# to disable the pink noise, change below: pink/* to pink/0 and to make it louder: pink/10 
 
 -SE 
 -m river1.ogg
