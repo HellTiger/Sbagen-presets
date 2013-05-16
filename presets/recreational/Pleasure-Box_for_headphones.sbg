@@ -24,7 +24,7 @@
 
 -q 1
 -L 01:02:00
--Wo HT-Pleasure.wav
+#-Wo HT-Pleasure.wav
 
 # Tones calculation
 #   Harmonic box X callculation:
