@@ -9,7 +9,7 @@ Used Frequency can be found on: http://www.lunarsight.com/freq.htm
 
 Disclaimer: 
 Experiment at your own risk. Please do not use without proper, medical supervision/advice!
-The following People should not listen to Brainwave entrainment: Children, pregnant Woman, people with cardiac pacemaker or which prone to seizure ( i.e. Epilepsy) 
+The following People should not listen to Brainwave entrainment: Children, pregnant Woman, people with cardiac pacemaker or which prone to seizure ( i.e. Epilepsy). 
 Hear the presets for Headphones at very low loudness! Headphone free presets can be heard louder.
 Stick to a frequency/preset for a week and listen a hour a day to it, the Brain needs training to get effects. 
 If you get uncomfortable make some break. 
